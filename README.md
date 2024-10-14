@@ -1,7 +1,3 @@
-Certainly! Below is a **README.md** file for your project, formatted with proper Markdown for GitHub and including emojis where appropriate.
-
----
-
 # 📝 PDF Query RAG Model with Ollama
 
 A Retrieval-Augmented Generation (RAG) model that enables you to ask questions about the content of a PDF document using **Ollama** and a language model (LLM). This project extracts text from a PDF, indexes it for efficient retrieval, and utilizes an LLM to generate answers based on your queries.
@@ -259,7 +255,3 @@ Contributions are welcome! If you'd like to improve this project, please:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to better fit your project's specifics. If you have any questions or need further assistance, please let me know! 😊
