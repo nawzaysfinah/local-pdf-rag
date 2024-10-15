@@ -116,17 +116,7 @@ Open your web browser and navigate to `http://localhost:8501`.
 
 ## 🖼 Screenshots
 
-### **Main Interface**
-
-![Main Interface](screenshots/main_interface.png)
-
-### **Uploading a PDF**
-
-![Uploading PDF](screenshots/upload_pdf.png)
-
-### **Chatbot Interaction**
-
-![Chatbot Interaction](screenshots/chatbot_interaction.png)
+![Screenshot 2024-10-15 at 9 58 58 AM](https://github.com/user-attachments/assets/911b4d39-6c16-46aa-8b7b-f528c534024f)
 
 ---
 
