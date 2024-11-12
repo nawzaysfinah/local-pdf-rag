@@ -144,6 +144,7 @@ Open your web browser and navigate to `http://localhost:8501`.
 
    - **Cause**: Ollama cannot find the specified model.
    - **Solution**:
+
      - Verify that the model name is correct and matches the installed model.
      - Install the model using Ollama:
 
